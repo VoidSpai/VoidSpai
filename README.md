@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VoidSpai
 - 👀 I’m interested in Python Developing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently trying to get involved in communitty projects
 - 💞️ I’m looking to collaborate on Projects to learn
 - 📫 How to reach me ...
 
